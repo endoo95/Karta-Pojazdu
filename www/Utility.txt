@@ -1,0 +1,5 @@
+colors:
+    light:
+        background - #f7f7f7
+        primary - #ffa500
+        secondary - #00ffa6
